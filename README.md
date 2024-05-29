@@ -10,7 +10,7 @@ https://data.nj.gov/Public-Safety/NJDOC-Incarcerated-Persons-Census/ceap-kj5e/ab
 
 # Findings:
 
-1.	Incarcerated persons between 30 and 40 years old represent the largest age group in the census with the median age being 37. This demonstrates a right skewed age distribution with      half of the incarcerated persons in their early middle age or younger.
+1.	Incarcerated persons between 30 and 40 years old represent the largest age group in the census with the median age being 37. Individuals considered elderly represent less than 4%       of the population. Demonstrating a right skewed age distribution with half of the incarcerated persons in their early middle age or younger.
 2.	Black incarcerated persons are the largest ethnic group in the 2023 incarcerated population representing 61% of the total. The second and third largest groups are White (22%) and       Hispanic (14%). American Indians are the smallest group in the census occupying 0.05% of the total population. 
 3.	Essex County possessed 1,821 admissions which was the highest number out of any other NJ county during 2023. Out of these admissions, 532 (29%) of them were categorized in the          highest sentence length category of 21+ years. No other county possessed a higher number of admissions for this category. 
 
